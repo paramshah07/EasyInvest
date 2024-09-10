@@ -43,7 +43,7 @@ Through the use of a series of questions with proportional weighting, we are abl
 A series of questions were then designed to determine the user's risk tolerance to various industries, and investment generally. The questions are designed to add or subtract a point(s) for the sector/risk to allow a total risk score to be determined.
 
 
-![]( userinput.gif)
+![](userinput.gif)
 ---------------
 
 ## Stage Two - ETF API Queries and Allocation,
@@ -92,7 +92,7 @@ G) Sunburst of Stock Data
 
 H) ETF holding map data
 
-![]( dash.png)
+![](dash.png)
 
 <img src=" sunbursts-stock-price-data.png" alt="sunburst" width="55%" />
 
