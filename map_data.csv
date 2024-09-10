@@ -1,0 +1,127 @@
+,Ticker,Name,Type,Instrument,Source,Sharpe,Volatility
+0,BLOK,Amplify Transformational Data Sharing ETF,Crypto,ETF,benzinga[dot]com,1.0097192332888425,0.3479278901839606
+1,BLCN,Siren ETF Trust Siren Nasdaq NexGen Economy ETF,Crypto,ETF,benzinga[dot]com,1.0833246773130134,0.25337800776707253
+2,LEGR,First Trust Indxx Innovative Transaction & Process ETF,Crypto,ETF,benzinga[dot]com,0.6569257338988961,0.24841745441069432
+3,BITQ,Bitwise Crypto Industry Innovators ETF,Crypto,ETF,etfdb[dot]com,-0.27933431452697083,0.6029116356030654
+4,DAPP,VanEck Vectors Digital Transformation ETF,Crypto,ETF,etfdb[dot]com,-2.075325056563397,0.5679579356018077
+5,BTTC,Purpose Bitcoin ETF,Crypto,ETF,benzinga[dot]com,,
+6,KOIN,Capital Link NextGen Protocol ETF,Crypto,ETF,benzinga[dot]com,0.9267445218328183,0.23190606934497132
+16,DFE,WisdomTree Europe SmallCap Dividend Fund,Dividend,ETF,benzinga[dot]com,0.4054966843073792,0.23044906514728467
+17,DLS,WisdomTree International SmallCap Fund,Dividend,ETF,benzinga[dot]com,0.2959357091998458,0.20427354888140636
+18,DGRW,WisdomTree U.S. Quality Dividend Growth Fund,Dividend,ETF,benzinga[dot]com,0.755977787623909,0.21728236525587463
+19,QDEF,FlexShares Quality Dividend Defensive Index Fund,Dividend,ETF,benzinga[dot]com,0.55497284506076,0.22090628551303765
+20,VIG,Vanguard Div Appreciation ETF,Dividend,ETF,benzinga[dot]com,0.8226471745359888,0.21225193536669068
+21,QDF,FlexShares Quality Dividend Index Fund,Dividend,ETF,benzinga[dot]com,0.538257906215295,0.22916767707523222
+22,DVYE,iShares Emerging Markets Dividend Index Fund Exchange Traded Fund,Dividend,ETF,benzinga[dot]com,0.337946621492392,0.2198367497836071
+23,DLN,WisdomTree U.S. LargeCap Dividend Fund,Dividend,ETF,benzinga[dot]com,0.6385070814176225,0.22540773531353928
+24,PFM,Invesco Dividend Achievers ETF,Dividend,ETF,benzinga[dot]com,0.7394759313038217,0.20089451643619116
+25,DGRO,iShares Core Dividend Growth ETF,Dividend,ETF,benzinga[dot]com,0.7423916501341008,0.23020203290920974
+26,DWX,SPDR S&P International Dividend ETF,Dividend,ETF,benzinga[dot]com,0.3070637890128757,0.1990488761068555
+27,TDIV,First Trust NASDAQ Technology Dividend Index Fund,Dividend,ETF,benzinga[dot]com,0.8106048946218177,0.2477109663778873
+28,DWM,WisdomTree International Equity Fund,Dividend,ETF,benzinga[dot]com,0.2641359240354831,0.20495323855614614
+29,DGS,WisdomTree Emerging Market SmallCap Fund,Dividend,ETF,benzinga[dot]com,0.48831179526496726,0.21814243434954267
+30,VIGI,Vanguard International Dividend Appreciation ETF,Dividend,ETF,benzinga[dot]com,0.6369505012491202,0.19948212015299455
+31,DTD,WisdomTree U.S. Total Dividend Fund,Dividend,ETF,benzinga[dot]com,0.5910466925175843,0.22345092060704963
+32,HDEF,Xtrackers MSCI EAFE High Dividend Yield Equity ETF,Dividend,ETF,benzinga[dot]com,0.337022973471325,0.20590406883354193
+33,HDV,iShares Core High Dividend ETF,Dividend,ETF,benzinga[dot]com,0.4289791639165087,0.2211648535499198
+34,PID,Invesco International Dividend Achievers ETF,Dividend,ETF,benzinga[dot]com,0.40251842401209403,0.24893157585929568
+35,TECL,Direxion Technology Bull 3X Shares,Tech,ETF,benzinga[dot]com,0.9887797557607042,0.8426552277249103
+36,LABD,Direxion Daily S&P Biotech Bear 3X Shares,Tech,ETF,benzinga[dot]com,-0.49350935070237584,1.0308149519232641
+37,ROM,ProShares Ultra Technology,Tech,ETF,benzinga[dot]com,1.053196273810297,0.563769639113188
+38,WEBL,Direxion Daily Dow Jones Internet Bull 3X Shares,Tech,ETF,benzinga[dot]com,1.338932373051091,0.8737084679620822
+39,QQH,HCM Defender 100 Index ETF,Tech,ETF,benzinga[dot]com,1.3258554840135743,0.3193082616051029
+40,USD,ProShares Ultra Semiconductors,Tech,ETF,benzinga[dot]com,0.88033724296265,0.7064307365377351
+41,SOXL,Direxion Daily Semiconductor Bull 3x Shares,Tech,ETF,benzinga[dot]com,0.977151278320424,1.0399632681368502
+42,XLK,SPDR Select Sector Fund – Technology,Tech,ETF,benzinga[dot]com,1.0401405567203492,0.28790061961585545
+43,IYW,iShares U.S. Technology ETF,Tech,ETF,benzinga[dot]com,1.0728941391406348,0.2871679506410756
+44,FTEC,Fidelity MSCI Information Technology Index ETF,Tech,ETF,benzinga[dot]com,1.0339326972709648,0.28695457639796074
+45,VGT,Vanguard Information Tech ETF,Tech,ETF,benzinga[dot]com,1.0759382528099206,0.2851364516269881
+46,IGM,iShares Expanded Tech Sector ETF,Tech,ETF,benzinga[dot]com,1.0207386498182158,0.27524252224659845
+47,IXN,iShares Global Tech ETF,Tech,ETF,benzinga[dot]com,0.9945644050884003,0.2844798372743788
+48,WCLD,WisdomTree Cloud Computing Fund,Tech,ETF,benzinga[dot]com,1.3619559147391884,0.3686185030232396
+49,RYT,Invesco S&P 500 Equal Weight Technology ETF,Tech,ETF,benzinga[dot]com,0.8563145621141134,0.2770879315625609
+50,CLOU,Global X Cloud Computing ETF,Tech,ETF,benzinga[dot]com,1.0819760381762251,0.30797803391979117
+51,IPAY,ETFMG Prime Mobile Payments ETF,Tech,ETF,benzinga[dot]com,0.7837009514693435,0.29725613809736884
+52,BIS,ProShares UltraShort Nasdaq Biotechnology,Tech,ETF,benzinga[dot]com,-0.6005664125268723,0.5259825233052906
+53,QTEC,First Trust NASDAQ-100-Technology Sector Index Fund,Tech,ETF,benzinga[dot]com,0.9160195917030896,0.30099907629822786
+54,LRNZ,"TrueShares Technology, AI & Deep Learning ETF",Tech,ETF,benzinga[dot]com,1.2904119881163398,0.3821706668346042
+55,IVV,iShares Core S&P 500 ETF,SP500,ETF,benzinga[dot]com,0.8245796825392595,0.23018144217302602
+56,VOO,Vanguard S&P 500 ETF,SP500,ETF,benzinga[dot]com,0.8262547870796072,0.2298695478180342
+57,SPY,SPDR S&P 500 ETF Trust,SP500,ETF,benzinga[dot]com,0.8365730804439123,0.22502678084843644
+58,SPLG,SPDR Portfolio S&P 500 ETF,SP500,ETF,benzinga[dot]com,0.8269050129190537,0.22975635417324974
+59,SCHX,Schwab U.S. Large Cap ETF,SP500,ETF,benzinga[dot]com,0.8444905360651607,0.23008163012243596
+60,IVW,iShares S&P 500 Growth ETF,SP500,ETF,benzinga[dot]com,0.9599282196705538,0.24048688511040567
+61,TLT,iShares 20+ Year Treasury Bond ETF,Bonds,ETF,benzinga[dot]com,0.5931523459411273,0.156243657438359
+62,EMLC,VanEck Vectors J.P. Morgan EM Local Currency Bond ETF,Bonds,ETF,benzinga[dot]com,0.22015124223415922,0.11506682278509955
+63,TIP,iShares TIPS Bond ETF,Bonds,ETF,benzinga[dot]com,0.9749490322549444,0.06045326298412923
+64,SCHP,Schwab U.S. TIPs ETF,Bonds,ETF,benzinga[dot]com,1.0425665141012215,0.05759211636929582
+65,VCLT,Vanguard Long-Term Corporate Bond ETF,Bonds,ETF,benzinga[dot]com,0.7230468482109915,0.15480365641157734
+66,BLV,Vanguard Long-Term Bond ETF,Bonds,ETF,benzinga[dot]com,0.819831075461693,0.12399353305974059
+67,IEF,iShares 7-10 Year Treasury Bond ETF,Bonds,ETF,benzinga[dot]com,0.985948889058991,0.05755284189722006
+68,BIV,Vanguard Intermediate-Term Bond ETF,Bonds,ETF,benzinga[dot]com,1.2846118318704436,0.04872103141104894
+69,USIG,iShares Broad USD Investment Grade Corporate Bond ETF,Bonds,ETF,benzinga[dot]com,0.8663613410757021,0.08326224150622195
+70,VCIT,Vanguard Intermediate-Term Corporate Bond ETF,Bonds,ETF,benzinga[dot]com,1.0255849801212984,0.07088671641019008
+71,IGIB,iShares 5-10 Year Investment Grade Corporate Bond ETF,Bonds,ETF,benzinga[dot]com,1.0806442131106553,0.06870567718069213
+72,SCHR,Schwab Intermediate-Term U.S. Treasury ETF,Bonds,ETF,benzinga[dot]com,1.2942304778485056,0.034910426569667544
+73,SPIB,SPDR Portfolio Intermediate Term Corporate Bond ETF,Bonds,ETF,benzinga[dot]com,0.9839082326796125,0.057871466651774985
+74,VGIT,Vanguard Intermediate-Term Treasury ETF,Bonds,ETF,benzinga[dot]com,1.2704458842590551,0.03558313539791765
+75,AGG,iShares Core U.S. Aggregate Bond ETF,Bonds,ETF,benzinga[dot]com,0.9258203049821431,0.05462166466294525
+76,SPAB,SPDR Portfolio Aggregate Bond ETF,Bonds,ETF,benzinga[dot]com,0.8089156223079869,0.062045939809885355
+77,PFF,iShares Preferred and Income Securities ETF,Bonds,ETF,benzinga[dot]com,0.4107855311765524,0.18451539014546
+78,VTIP,Vanguard Short-Term Inflation-Protected Securities Index Fund,Bonds,ETF,benzinga[dot]com,1.0957347705660752,0.032875390327345405
+79,BNDX,Vanguard Total International Bond ETF,Bonds,ETF,benzinga[dot]com,1.0670859977511695,0.033839341859983746
+80,IEI,iShares 3-7 Year Treasury Bond ETF,Bonds,ETF,benzinga[dot]com,1.381648611405435,0.029814280924840317
+81,KOLD,ProShares UltraShort Bloomberg Natural Gas,Commodities,ETF,benzinga[dot]com,0.22815296441516963,0.9062739666811931
+82,UGL,ProShares Ultra Gold,Commodities,ETF,benzinga[dot]com,0.6533275684923702,0.3110653310957658
+83,BAR,GraniteShares Gold Trust Shares of Beneficial Interest,Commodities,ETF,benzinga[dot]com,0.8318398961048493,0.15044325165905117
+84,GLDM,SPDR Gold MiniShares Trust,Commodities,ETF,benzinga[dot]com,0.8367545679877391,0.14919882506456023
+85,AAAU,Goldman Sachs Physical Gold ETF Shares,Commodities,ETF,benzinga[dot]com,1.0042124572575044,0.1536646004783117
+86,IAU,iShares Gold Trust Shares of the iShares Gold Trust,Commodities,ETF,benzinga[dot]com,0.8359105202680244,0.14900446701856537
+87,SGOL,Aberdeen Standard Physical Gold Shares ETF,Commodities,ETF,benzinga[dot]com,0.8296560478500732,0.15059921145084873
+88,GLD,SPDR Gold Trust,Commodities,ETF,benzinga[dot]com,0.8204077659827766,0.1501441573841584
+89,DBC,Invesco DB Commodity Index Tracking Fund,Commodities,ETF,benzinga[dot]com,0.25251580930624923,0.17962980953681396
+90,GLDI,Credit Suisse Gold Shares Covered Call Exchange Traded Notes,Commodities,ETF,benzinga[dot]com,0.8507858891298429,0.12747937853078575
+91,SLVO,Credit Suisse Silver Shares Covered Call Exchange Traded Notes,Commodities,ETF,benzinga[dot]com,0.5131613346195983,0.23698237050598575
+92,SOYB,Teucrium Soybean Fund ETV,Commodities,ETF,benzinga[dot]com,0.7479471430906959,0.17413897661602284
+93,SCO,ProShares UltraShort Bloomberg Crude Oil,Commodities,ETF,benzinga[dot]com,0.0599635153514431,0.957373759451117
+94,WEAT,Teucrium Wheat Fund ETV,Commodities,ETF,benzinga[dot]com,0.06098267604420267,0.23371041770175863
+95,PDBC,Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF,Commodities,ETF,benzinga[dot]com,0.24291792989831273,0.1791542881374297
+96,UGA,United States Gasoline Fund LP,Commodities,ETF,benzinga[dot]com,0.24293736005421027,0.46372080403004856
+97,BNO,United States Brent Oil Fund,Commodities,ETF,benzinga[dot]com,0.09719254962543676,0.43270627348214397
+98,AGQ,ProShares Ultra Silver,Commodities,ETF,benzinga[dot]com,0.5479060931609775,0.6391960384927385
+99,SIVR,Aberdeen Standard Physical Silver Shares ETF,Commodities,ETF,benzinga[dot]com,0.6505296250241315,0.30977851806974055
+100,IHE,iShares U.S. Pharmaceuticals ETF,Pharma,ETF,etfdb[dot]com,0.43742245297713406,0.21087845832306937
+101,PJP,Invesco Dynamic Pharmaceuticals ETF,Pharma,ETF,etfdb[dot]com,0.3648940313448087,0.22187536796276933
+102,XPH,SPDR S&P Pharmaceuticals ETF,Pharma,ETF,etfdb[dot]com,0.3518838581417481,0.24999287685838806
+103,KURE,KraneShares MSCI All China Health Care Index ETF,Pharma,ETF,etfdb[dot]com,0.6531886456078059,0.3383508052171624
+104,PPH,VanEck Vectors Pharmaceutical ETF,Pharma,ETF,etfdb[dot]com,0.47626058044048036,0.20735521040495875
+105,POTX,Global X Cannabis ETF,Pharma,ETF,etfdb[dot]com,-0.05334332814398017,0.6834546242724867
+106,MJJ,Microsectors Cannabis ETN,Pharma,ETF,etfdb[dot]com,0.9960869822647702,0.3678719839135677
+107,FTXH,First Trust Nasdaq Pharmaceuticals ETF,Pharma,ETF,etfdb[dot]com,0.3508378589154919,0.2193441645445738
+108,CHIH,Global X MSCI China Health Care ETF,Pharma,ETF,etfdb[dot]com,1.0306501280683042,0.308050593202383
+109,MJO,MicroSectors Cannabis 2X Leveraged ETN,Pharma,ETF,etfdb[dot]com,0.9847399373807276,0.7376552045180811
+110,CHNA,Loncar China BioPharma ETF,Pharma,ETF,etfdb[dot]com,0.8789932649922706,0.2884366168476926
+111,PILL,Direxion Daily Pharmaceutical & Medical Bull 3X Shares,Pharma,ETF,etfdb[dot]com,0.22963898108744904,0.7005154217050105
+112,CHB,Global X China Biotech Innovation ETF,Pharma,ETF,etfdb[dot]com,0.8033411787868491,0.27627159499813436
+113,ARKQ,ARK Autonomous Technology & Robotics ETF,AI,ETF,etfdb[dot]com,1.076866586699501,0.3180742092389893
+114,BOTZ,Global X Robotics & Artificial Intelligence ETF,AI,ETF,etfdb[dot]com,0.6811484139912009,0.28749233104635863
+115,KOMP,SPDR S&P Kensho New Economies Composite ETF,AI,ETF,etfdb[dot]com,1.0971971311107243,0.30424952746512
+116,ROBO,ROBO Global Robotics & Automation Index ETF,AI,ETF,etfdb[dot]com,0.7139475339641559,0.26852553501765875
+117,PNQI,Invesco NASDAQ Internet ETF,AI,ETF,etfdb[dot]com,0.8252410355666314,0.27254228483277904
+118,DRIV,Global X Autonomous & Electric Vehicles ETF,AI,ETF,etfdb[dot]com,0.9163204120519787,0.28354356034764017
+119,IRBO,iShares Robotics and Artificial Intelligence Multisector ETF,AI,ETF,etfdb[dot]com,0.9049395349134938,0.2601265017749766
+120,ROBT,First Trust Nasdaq Artificial Intelligence & Robotics ETF,AI,ETF,etfdb[dot]com,0.867148447475747,0.2662064032737441
+121,DTEC,ALPS Disruptive Technologies ETF,AI,ETF,etfdb[dot]com,0.8608706194560101,0.24967632735184322
+122,EBIZ,Global X E-commerce ETF,AI,ETF,etfdb[dot]com,1.167951790017132,0.27791775495120047
+123,AIEQ,AI Powered Equity ETF,AI,ETF,etfdb[dot]com,0.736311230595405,0.24249420852473108
+124,IETC,iShares Evolved U.S. Technology ETF,AI,ETF,etfdb[dot]com,1.0840238064455485,0.27107768281366607
+125,QTUM,Defiance Quantum ETF,AI,ETF,etfdb[dot]com,0.9868828388065223,0.2791798484950339
+126,LEGR,First Trust Indxx Innovative Transaction & Process ETF,AI,ETF,etfdb[dot]com,0.6569257338988961,0.24841745441069432
+127,LOUP,Innovator Loup Frontier Tech ETF,AI,ETF,etfdb[dot]com,0.9268488429751518,0.31126188484892026
+128,AOA,iShares Core Aggressive Allocation ETF,Aggressive,ETF,etfdb[dot]com,0.7289728427083378,0.16615519380735558
+129,TDSE,Cabana Target Drawdown 16 ETF,Aggressive,ETF,etfdb[dot]com,1.3990600792265897,0.12984467976194183
+130,GMOM,Cambria Global Momentum ETF,Aggressive,ETF,etfdb[dot]com,0.7850301648980889,0.11743395608422189
+131,FFHG,Formula Folios Hedged Growth ETF,Aggressive,ETF,etfdb[dot]com,0.5044103995024991,0.19706566150865573
+132,EAOA,iShares ESG Aware Aggressive Allocation ETF,Aggressive,ETF,etfdb[dot]com,2.10915553231205,0.12223875361206353
+133,PSMG,Invesco Growth Multi-Asset Allocation ETF,Aggressive,ETF,etfdb[dot]com,0.7594746767815171,0.16872050786258794
+134,EAOR,iShares ESG Aware Growth Allocation ETF,Aggressive,ETF,etfdb[dot]com,2.1842603728904666,0.09378784472199467

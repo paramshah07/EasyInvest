@@ -1,0 +1,136 @@
+Ticker,Name,Type,Instrument,Source
+BLOK,Amplify Transformational Data Sharing ETF,Crypto,ETF,benzinga[dot]com
+BLCN,Siren ETF Trust Siren Nasdaq NexGen Economy ETF,Crypto,ETF,benzinga[dot]com
+LEGR,First Trust Indxx Innovative Transaction & Process ETF,Crypto,ETF,benzinga[dot]com
+BITQ,Bitwise Crypto Industry Innovators ETF,Crypto,ETF,etfdb[dot]com
+DAPP,VanEck Vectors Digital Transformation ETF,Crypto,ETF,etfdb[dot]com
+BTCC-B.TO,Purpose Bitcoin ETF,Crypto,ETF,benzinga[dot]com
+KOIN,Capital Link NextGen Protocol ETF,Crypto,ETF,benzinga[dot]com
+ESGU,iShares ESG Aware MSCI USA ETF,ESG,ETF,investopedia[dot]com
+SUSA,iShares MSCI USA ESG Select ETF,ESG,ETF,investopedia[dot]com
+ESGE,iShares ESG Aware MSCI EM ETF,ESG,ETF,investopedia[dot]com
+ESGV,Vanguard ESG U.S. Stock ETF,ESG,ETF,investopedia[dot]com
+VSGX,Vanguard ESG International Stock ETF,ESG,ETF,investopedia[dot]com
+SUSB,iShares ESG 1-5 Year USD Corporate Bond ETF,ESG,ETF,investopedia[dot]com
+SPTL,SPDR Portfolio Long Term Treasury ETF,ESG,ETF,investopedia[dot]com
+LTPZ,PIMCO 15+ Year U.S. TIPS Index Exchange-Traded Fund,ESG,ETF,investopedia[dot]com
+GLDM,SPDR Gold MiniShares,ESG,ETF,investopedia[dot]com
+DFE,WisdomTree Europe SmallCap Dividend Fund,Dividend,ETF,benzinga[dot]com
+DLS,WisdomTree International SmallCap Fund,Dividend,ETF,benzinga[dot]com
+DGRW,WisdomTree U.S. Quality Dividend Growth Fund,Dividend,ETF,benzinga[dot]com
+QDEF,FlexShares Quality Dividend Defensive Index Fund,Dividend,ETF,benzinga[dot]com
+VIG,Vanguard Div Appreciation ETF,Dividend,ETF,benzinga[dot]com
+QDF,FlexShares Quality Dividend Index Fund,Dividend,ETF,benzinga[dot]com
+DVYE,iShares Emerging Markets Dividend Index Fund Exchange Traded Fund,Dividend,ETF,benzinga[dot]com
+DLN,WisdomTree U.S. LargeCap Dividend Fund,Dividend,ETF,benzinga[dot]com
+PFM,Invesco Dividend Achievers ETF,Dividend,ETF,benzinga[dot]com
+DGRO,iShares Core Dividend Growth ETF,Dividend,ETF,benzinga[dot]com
+DWX,SPDR S&P International Dividend ETF,Dividend,ETF,benzinga[dot]com
+TDIV,First Trust NASDAQ Technology Dividend Index Fund,Dividend,ETF,benzinga[dot]com
+DWM,WisdomTree International Equity Fund,Dividend,ETF,benzinga[dot]com
+DGS,WisdomTree Emerging Market SmallCap Fund,Dividend,ETF,benzinga[dot]com
+VIGI,Vanguard International Dividend Appreciation ETF,Dividend,ETF,benzinga[dot]com
+DTD,WisdomTree U.S. Total Dividend Fund,Dividend,ETF,benzinga[dot]com
+HDEF,Xtrackers MSCI EAFE High Dividend Yield Equity ETF,Dividend,ETF,benzinga[dot]com
+HDV,iShares Core High Dividend ETF,Dividend,ETF,benzinga[dot]com
+PID,Invesco International Dividend Achievers ETF,Dividend,ETF,benzinga[dot]com
+TECL,Direxion Technology Bull 3X Shares,Tech,ETF,benzinga[dot]com
+LABD,Direxion Daily S&P Biotech Bear 3X Shares,Tech,ETF,benzinga[dot]com
+ROM,ProShares Ultra Technology,Tech,ETF,benzinga[dot]com
+WEBL,Direxion Daily Dow Jones Internet Bull 3X Shares,Tech,ETF,benzinga[dot]com
+QQH,HCM Defender 100 Index ETF,Tech,ETF,benzinga[dot]com
+USD,ProShares Ultra Semiconductors,Tech,ETF,benzinga[dot]com
+SOXL,Direxion Daily Semiconductor Bull 3x Shares,Tech,ETF,benzinga[dot]com
+XLK,SPDR Select Sector Fund – Technology,Tech,ETF,benzinga[dot]com
+IYW,iShares U.S. Technology ETF,Tech,ETF,benzinga[dot]com
+FTEC,Fidelity MSCI Information Technology Index ETF,Tech,ETF,benzinga[dot]com
+VGT,Vanguard Information Tech ETF,Tech,ETF,benzinga[dot]com
+IGM,iShares Expanded Tech Sector ETF,Tech,ETF,benzinga[dot]com
+IXN,iShares Global Tech ETF,Tech,ETF,benzinga[dot]com
+WCLD,WisdomTree Cloud Computing Fund,Tech,ETF,benzinga[dot]com
+RYT,Invesco S&P 500 Equal Weight Technology ETF,Tech,ETF,benzinga[dot]com
+CLOU,Global X Cloud Computing ETF,Tech,ETF,benzinga[dot]com
+IPAY,ETFMG Prime Mobile Payments ETF,Tech,ETF,benzinga[dot]com
+BIS,ProShares UltraShort Nasdaq Biotechnology,Tech,ETF,benzinga[dot]com
+QTEC,First Trust NASDAQ-100-Technology Sector Index Fund,Tech,ETF,benzinga[dot]com
+LRNZ,"TrueShares Technology, AI & Deep Learning ETF",Tech,ETF,benzinga[dot]com
+IVV,iShares Core S&P 500 ETF,SP500,ETF,benzinga[dot]com
+VOO,Vanguard S&P 500 ETF,SP500,ETF,benzinga[dot]com
+SPY,SPDR S&P 500 ETF Trust,SP500,ETF,benzinga[dot]com
+SPLG,SPDR Portfolio S&P 500 ETF,SP500,ETF,benzinga[dot]com
+SCHX,Schwab U.S. Large Cap ETF,SP500,ETF,benzinga[dot]com
+IVW,iShares S&P 500 Growth ETF,SP500,ETF,benzinga[dot]com
+TLT,iShares 20+ Year Treasury Bond ETF,Bonds,ETF,benzinga[dot]com
+EMLC,VanEck Vectors J.P. Morgan EM Local Currency Bond ETF,Bonds,ETF,benzinga[dot]com
+TIP,iShares TIPS Bond ETF,Bonds,ETF,benzinga[dot]com
+SCHP,Schwab U.S. TIPs ETF,Bonds,ETF,benzinga[dot]com
+VCLT,Vanguard Long-Term Corporate Bond ETF,Bonds,ETF,benzinga[dot]com
+BLV,Vanguard Long-Term Bond ETF,Bonds,ETF,benzinga[dot]com
+IEF,iShares 7-10 Year Treasury Bond ETF,Bonds,ETF,benzinga[dot]com
+BIV,Vanguard Intermediate-Term Bond ETF,Bonds,ETF,benzinga[dot]com
+USIG,iShares Broad USD Investment Grade Corporate Bond ETF,Bonds,ETF,benzinga[dot]com
+VCIT,Vanguard Intermediate-Term Corporate Bond ETF,Bonds,ETF,benzinga[dot]com
+IGIB,iShares 5-10 Year Investment Grade Corporate Bond ETF,Bonds,ETF,benzinga[dot]com
+SCHR,Schwab Intermediate-Term U.S. Treasury ETF,Bonds,ETF,benzinga[dot]com
+SPIB,SPDR Portfolio Intermediate Term Corporate Bond ETF,Bonds,ETF,benzinga[dot]com
+VGIT,Vanguard Intermediate-Term Treasury ETF,Bonds,ETF,benzinga[dot]com
+AGG,iShares Core U.S. Aggregate Bond ETF,Bonds,ETF,benzinga[dot]com
+SPAB,SPDR Portfolio Aggregate Bond ETF,Bonds,ETF,benzinga[dot]com
+PFF,iShares Preferred and Income Securities ETF,Bonds,ETF,benzinga[dot]com
+VTIP,Vanguard Short-Term Inflation-Protected Securities Index Fund,Bonds,ETF,benzinga[dot]com
+BNDX,Vanguard Total International Bond ETF,Bonds,ETF,benzinga[dot]com
+IEI,iShares 3-7 Year Treasury Bond ETF,Bonds,ETF,benzinga[dot]com
+KOLD,ProShares UltraShort Bloomberg Natural Gas,Commodities,ETF,benzinga[dot]com
+UGL,ProShares Ultra Gold,Commodities,ETF,benzinga[dot]com
+BAR,GraniteShares Gold Trust Shares of Beneficial Interest,Commodities,ETF,benzinga[dot]com
+GLDM,SPDR Gold MiniShares Trust,Commodities,ETF,benzinga[dot]com
+AAAU,Goldman Sachs Physical Gold ETF Shares,Commodities,ETF,benzinga[dot]com
+IAU,iShares Gold Trust Shares of the iShares Gold Trust,Commodities,ETF,benzinga[dot]com
+SGOL,Aberdeen Standard Physical Gold Shares ETF,Commodities,ETF,benzinga[dot]com
+GLD,SPDR Gold Trust,Commodities,ETF,benzinga[dot]com
+DBC,Invesco DB Commodity Index Tracking Fund,Commodities,ETF,benzinga[dot]com
+GLDI,Credit Suisse Gold Shares Covered Call Exchange Traded Notes,Commodities,ETF,benzinga[dot]com
+SLVO,Credit Suisse Silver Shares Covered Call Exchange Traded Notes,Commodities,ETF,benzinga[dot]com
+SOYB,Teucrium Soybean Fund ETV,Commodities,ETF,benzinga[dot]com
+SCO,ProShares UltraShort Bloomberg Crude Oil,Commodities,ETF,benzinga[dot]com
+WEAT,Teucrium Wheat Fund ETV,Commodities,ETF,benzinga[dot]com
+PDBC,Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF,Commodities,ETF,benzinga[dot]com
+UGA,United States Gasoline Fund LP,Commodities,ETF,benzinga[dot]com
+BNO,United States Brent Oil Fund,Commodities,ETF,benzinga[dot]com
+AGQ,ProShares Ultra Silver,Commodities,ETF,benzinga[dot]com
+SIVR,Aberdeen Standard Physical Silver Shares ETF,Commodities,ETF,benzinga[dot]com
+IHE,iShares U.S. Pharmaceuticals ETF,Pharma,ETF,etfdb[dot]com
+PJP,Invesco Dynamic Pharmaceuticals ETF,Pharma,ETF,etfdb[dot]com
+XPH,SPDR S&P Pharmaceuticals ETF,Pharma,ETF,etfdb[dot]com
+KURE,KraneShares MSCI All China Health Care Index ETF,Pharma,ETF,etfdb[dot]com
+PPH,VanEck Vectors Pharmaceutical ETF,Pharma,ETF,etfdb[dot]com
+POTX,Global X Cannabis ETF,Pharma,ETF,etfdb[dot]com
+MJJ,Microsectors Cannabis ETN,Pharma,ETF,etfdb[dot]com
+FTXH,First Trust Nasdaq Pharmaceuticals ETF,Pharma,ETF,etfdb[dot]com
+CHIH,Global X MSCI China Health Care ETF,Pharma,ETF,etfdb[dot]com
+MJO,MicroSectors Cannabis 2X Leveraged ETN,Pharma,ETF,etfdb[dot]com
+CHNA,Loncar China BioPharma ETF,Pharma,ETF,etfdb[dot]com
+PILL,Direxion Daily Pharmaceutical & Medical Bull 3X Shares,Pharma,ETF,etfdb[dot]com
+CHB,Global X China Biotech Innovation ETF,Pharma,ETF,etfdb[dot]com
+ARKQ,ARK Autonomous Technology & Robotics ETF,AI,ETF,etfdb[dot]com
+BOTZ,Global X Robotics & Artificial Intelligence ETF,AI,ETF,etfdb[dot]com
+KOMP,SPDR S&P Kensho New Economies Composite ETF,AI,ETF,etfdb[dot]com
+ROBO,ROBO Global Robotics & Automation Index ETF,AI,ETF,etfdb[dot]com
+PNQI,Invesco NASDAQ Internet ETF,AI,ETF,etfdb[dot]com
+DRIV,Global X Autonomous & Electric Vehicles ETF,AI,ETF,etfdb[dot]com
+IRBO,iShares Robotics and Artificial Intelligence Multisector ETF,AI,ETF,etfdb[dot]com
+ROBT,First Trust Nasdaq Artificial Intelligence & Robotics ETF,AI,ETF,etfdb[dot]com
+DTEC,ALPS Disruptive Technologies ETF,AI,ETF,etfdb[dot]com
+EBIZ,Global X E-commerce ETF,AI,ETF,etfdb[dot]com
+AIEQ,AI Powered Equity ETF,AI,ETF,etfdb[dot]com
+IETC,iShares Evolved U.S. Technology ETF,AI,ETF,etfdb[dot]com
+QTUM,Defiance Quantum ETF,AI,ETF,etfdb[dot]com
+LEGR,First Trust Indxx Innovative Transaction & Process ETF,AI,ETF,etfdb[dot]com
+LOUP,Innovator Loup Frontier Tech ETF,AI,ETF,etfdb[dot]com
+AOA,iShares Core Aggressive Allocation ETF,Aggressive,ETF,etfdb[dot]com
+TDSE,Cabana Target Drawdown 16 ETF,Aggressive,ETF,etfdb[dot]com
+GMOM,Cambria Global Momentum ETF,Aggressive,ETF,etfdb[dot]com
+FFHG,Formula Folios Hedged Growth ETF,Aggressive,ETF,etfdb[dot]com
+EAOA,iShares ESG Aware Aggressive Allocation ETF,Aggressive,ETF,etfdb[dot]com
+PSMG,Invesco Growth Multi-Asset Allocation ETF,Aggressive,ETF,etfdb[dot]com
+EAOR,iShares ESG Aware Growth Allocation ETF,Aggressive,ETF,etfdb[dot]com
