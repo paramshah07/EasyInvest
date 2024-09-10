@@ -9,7 +9,7 @@ Grandma and Grandpa's ETF is a **user-input based investment portfolio tool** th
 
 The jupyter lab notebook we have developed sets out the steps for a user to input their investment preferences and execute code in a user friendly manner. By compiling various ETF's through an API we have given the user access to the latest trading information across a variety of industries. The final result is the allocation of an ETF based on their goals and a visual dashboard with varying performance metrics.   
 
-![](images/daily_prices_etf_vs_top10.png)
+![](daily_prices_etf_vs_top10.png)
 
 ## Background
 Non-technical investors face significant barriers to entry in a rapidly moving investment market. The ability to access and utilise the latest financial information in a way that is catered to your particular needs would seem out of reach to most lay-people. 
