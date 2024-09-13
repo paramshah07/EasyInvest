@@ -1,11 +1,11 @@
 
-# Grandma & Grandpa's ETF
+# EasyInvest
 
 ## Summary
 
-*Grandma and Grandpa's ETF* is a project to help older, financially interested but technically challenged investors enter the modern investment landscape with confidence.  
+*EasyInvest ETF* is a project to help older, financially interested but technically challenged investors enter the modern investment landscape with confidence.  
 
-Grandma and Grandpa's ETF is a **user-input based investment portfolio tool** that enables the user to visualise a personalised investment strategy based on an assessment of their specific interests, goals and needs.
+EasyInvest ETF is a **user-input based investment portfolio tool** that enables the user to visualise a personalised investment strategy based on an assessment of their specific interests, goals and needs.
 
 The jupyter lab notebook we have developed sets out the steps for a user to input their investment preferences and execute code in a user friendly manner. By compiling various ETF's through an API we have given the user access to the latest trading information across a variety of industries. The final result is the allocation of an ETF based on their goals and a visual dashboard with varying performance metrics.   
 
@@ -55,7 +55,7 @@ Several APIs were limited by the number of data pulls per day, others had subscr
 
 
 2. API data cleansing and data frame merging:  
-Grandma and Grandpa's ETF is designed to not only allocate risk and an appropriate ETF portfolio but show the user simple dashboard information to ensure their investment is meeting its objectives.
+EasyInvest ETF is designed to not only allocate risk and an appropriate ETF portfolio but show the user simple dashboard information to ensure their investment is meeting its objectives.
 Hence key outputs must include:  
 
     A. Return - Annual returns by ETF for past 5 years (looking back 5 years)
