@@ -32,7 +32,7 @@ Our MVP as presented below focuses on one ETF output and capturing relevant risk
 
 -------------
  
-## Stage One - Grandma & Grandpa's Inputs: Investment and Risk Profile
+## Stage One - EasyInvest's Inputs: Investment and Risk Profile
 
  To enable the allocationn of a personalised ETF, user inputs were created using widgets to allow for the selection of data and answering of specific fields.   
 
